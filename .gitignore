@@ -17,3 +17,7 @@ pom.xml.asc
 .lein-failures
 .lein-plugins
 .lein-repl-history
+<<<<<<< HEAD
+=======
+/HOLD
+>>>>>>> develop-0.2.0

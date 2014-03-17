@@ -1,6 +1,6 @@
 # clojure-carp
 
-Exception, Tracing (Diagnostics) and Similar.
+Exception for Clojure.
 
 Named after Perl's Carp.
 
@@ -8,11 +8,10 @@ Named after Perl's Carp.
 
 "A work in progress"
 
-
 ## Artifacts
 
 Artifacts are
-[released to Clojars](https://clojars.org/clojurewerkz/machine_head).
+[released to Clojars](https://clojars.org/name.rumford/clojure-carp).
 
 If you are using Maven, add the following repository
 definition to your `pom.xml`:
@@ -28,32 +27,28 @@ definition to your `pom.xml`:
 
 With Leiningen:
 
-    [name.rumford/clojure-carp "0.1.0"]
-
+    [name.rumford/clojure-carp "0.2.0"]
 
 With Maven:
 
     <dependency>
       <groupId>name.rumford</groupId>
       <artifactId>clojure-carp</artifactId>
-      <version>0.1.0</version>
+      <version>0.2.0</version>
     </dependency>
 
 
 ## Documentation & Examples
 
-FIXME
+None
 
 ## Testing
 
-clojure-carp uses [Leiningen 2](http://leiningen.org).
-
-``` bash
-lein test
-```
+There are no tests to date.
 
 ## License
 
 Copyright (C) 2013 Ian Rumford.
 
 Licensed under [MIT](http://opensource.org/licenses/MIT)
+
