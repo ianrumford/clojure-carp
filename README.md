@@ -1,6 +1,6 @@
 # clojure-carp
 
-Exception for Clojure.
+Diagnostics, Exceptions and Validation for Clojure.
 
 Named after Perl's Carp.
 
@@ -27,14 +27,14 @@ definition to your `pom.xml`:
 
 With Leiningen:
 
-    [name.rumford/clojure-carp "0.2.0"]
+    [name.rumford/clojure-carp "0.2.1"]
 
 With Maven:
 
     <dependency>
       <groupId>name.rumford</groupId>
       <artifactId>clojure-carp</artifactId>
-      <version>0.2.0</version>
+      <version>0.2.1</version>
     </dependency>
 
 
@@ -48,7 +48,7 @@ There are no tests to date.
 
 ## License
 
-Copyright (C) 2013 Ian Rumford.
+Copyright (C) 2014 Ian Rumford.
 
 Licensed under [MIT](http://opensource.org/licenses/MIT)
 
